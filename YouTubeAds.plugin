@@ -2,8 +2,8 @@
 ＃高级勿用且版本需≤15.26.4
 ＃改自越南佬
 
-[规则]
-^https?:\/\/.+\.googlevideo\.com\/.+&oad url reject-img
+[URL Rewrite]
+^ https？：\ / \ /.+ \。googlevideo \ .com \ /.+& oad URL reject-img
 ^https?:\/\/.+\.googlevideo\.com\/.+ctier url reject-img
 ^https?:\/\/youtubei\.googleapis\.com\/youtubei\/.+ad_ url reject-img
 ^https?:\/\/youtubei\.googleapis\.com\/youtubei\/.+log_ url reject-img
