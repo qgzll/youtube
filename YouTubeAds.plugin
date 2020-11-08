@@ -13,6 +13,7 @@
 ^https?:\/\/.+\.youtube\.com\/api\/stats\/.+adformat url reject-img
 ^https?:\/\/.+\.youtube\.com\/pagead\/ url reject-img
 ^https?:\/\/.+\.youtube\.com\/ptracking url reject-img
+
 [MITM]
 hostname = *.googlevideo.com, s.youtube.com, www.youtube.com, www.googleapis.com, youtubei.googleapis.com
 
