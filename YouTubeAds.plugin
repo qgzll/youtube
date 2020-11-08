@@ -1,5 +1,6 @@
 ＃跳过片头广告
 ＃高级勿用且版本需≤15.26.4
+＃改自越南佬
 
 [规则]
 ^https?:\/\/.+\.googlevideo\.com\/.+&oad url reject-img
