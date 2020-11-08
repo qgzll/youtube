@@ -3,7 +3,7 @@
 ＃改自越南佬
 
 [URL Rewrite]
-^ https？：\ / \ /.+ \。googlevideo \ .com \ /.+& oad URL reject-img
+^https?:\/\/.+\.googlevideo\.com\/.+&oad url reject-img
 ^https?:\/\/.+\.googlevideo\.com\/.+ctier url reject-img
 ^https?:\/\/youtubei\.googleapis\.com\/youtubei\/.+ad_ url reject-img
 ^https?:\/\/youtubei\.googleapis\.com\/youtubei\/.+log_ url reject-img
